@@ -1,0 +1,23 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+.vs/
+
+# User-specific IDE files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Local data, accounts, keys, and messages
+/Data/
+*.pem
+*.pfx
+*.p12
+*.key
+*.snk
+
+# Local environment settings
+.env
+.env.*
+!.env.example
